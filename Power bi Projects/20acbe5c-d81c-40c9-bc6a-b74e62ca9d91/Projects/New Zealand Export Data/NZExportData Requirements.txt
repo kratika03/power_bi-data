@@ -1,0 +1,17 @@
+General KPIs (Key Parameter Indicators)
+-Sales
+-Avg Delivery Days
+-Total Units Sold
+-Total Cost
+
+Date-Time Analysis
+
+Region Profile
+Country Profile
+Item Profile
+Sales Channel Profile
+Order Priority Profile
+Time Series Analysis
+
+
+(Note: Make a summary Dashboard, Profiles mentioned above should have different Report Pages)
